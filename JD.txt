@@ -1,0 +1,24 @@
+Manual cross browser and cross device testing including functionality, design, browser compatibility and UAT
+ 
+Triage and log bugs for development team 
+ 
+Developing documents for end to end use cases for UAT
+ 
+Preparing and executing test documentation and scenarios to ensure all digital projects are delivered to company standards and meet end-user requirements
+Undertaking full post deployment testing in line with the test plan
+Monitor all the QA activities, identify areas of improvement and implement steps required to improve the processes
+Gather and present testing metrics and testing activities for the projects to Operations Manager
+Manage client Trello boards
+ 
+Ensure work is delivered on scope and within the agreed allocated hours
+Experience Required:
+
+High level of detail and accuracy.
+3+ years experience as QA Analyst/Engineer.
+Knowledge of development and/or HTML coding.
+Very organised and consistent.
+Self motivated.
+Strong written and communication skills.
+Demonstrated high level of interpersonal skills.
+Ability to work effectively under pressure and meet deadlines.
+Experience with Bugherd desirable.
